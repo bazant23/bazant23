@@ -22,5 +22,6 @@
 <img align="center" alt="Higor-Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
  
- 
+  
+ ![Snake animation](https://github.com/bazant23/bazant23/blob/output/github-contribution-grid-snake.svg)
  
