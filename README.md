@@ -20,8 +20,11 @@
    <img align="center" alt="-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="fabio-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Higor-Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
+  
+    ![Snake animation](https://github.com/bazant23/bazant23/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
  
   
- ![Snake animation](https://github.com/bazant23/bazant23/blob/output/github-contribution-grid-snake.svg)
+ 
  
